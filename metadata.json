@@ -1,0 +1,5 @@
+{
+  "name": "Visual Expense Tracker",
+  "description": "A modern web application to track your expenses, visualize spending patterns through charts, set budgets, and export reports. Easily add expenses manually or upload a CSV file to manage your finances effectively.",
+  "requestFramePermissions": []
+}
